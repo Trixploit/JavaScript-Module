@@ -1,1 +1,2 @@
-var module = true;
+let value = true;
+module.exports = value;
